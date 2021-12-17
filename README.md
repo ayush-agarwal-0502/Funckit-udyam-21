@@ -6,3 +6,6 @@ Hi, I'm Ayush Agarwal, Electronics engineering student at IIT BHU Varanasi . Par
 The problem statment can be seen from the official site of udyam :
 https://www.udyamfest.com/
 
+Or in case the site takes it down (which it shouldn't) , here's a local copy on the repository :
+https://github.com/ayush-agarwal-0502/Funckit-udyam-21/blob/main/Funckit'21_PS.pdf
+
