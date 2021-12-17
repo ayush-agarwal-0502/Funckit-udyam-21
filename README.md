@@ -12,6 +12,7 @@ https://github.com/ayush-agarwal-0502/Funckit-udyam-21/blob/main/Funckit'21_PS.p
 # PS1 
 
 Here is the proteus file :
+https://github.com/ayush-agarwal-0502/Funckit-udyam-21/blob/main/func%20ps1.DSN
 
 ![image](https://user-images.githubusercontent.com/86561124/146496746-21dc53d3-e099-43ad-aa94-063c23688a96.png)
 
